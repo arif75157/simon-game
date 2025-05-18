@@ -5,15 +5,15 @@ This is a web-based version of the classic **Simon Game** built using **HTML, CS
  **.** CSS <br>
  **.** JavaScript
 # 🕹️ How to Play
- **1. Start the Game**
- . Press any key (or click the "Start" button if available) to begin.
+ **1. Start the Game** <br>
+ . Press any key (or click the "Start" button if available) to begin.<br>
  **2. Watch the Sequence**
- . The game will highlight a color (with sound).
- . Pay close attention to the order.
+ . The game will highlight a color (with sound).<br>
+ . Pay close attention to the order.<br>
 ## **3. Repeat the Sequence**
- . Click the buttons in the same order the game shows.
- . With each level, the sequence gets longer and more challenging.
+ . Click the buttons in the same order the game shows.<br>
+ . With each level, the sequence gets longer and more challenging.<br>
 ## **4. Game Over**
- . If you click the wrong button, the game ends.
- . Press any key to restart.
+ . If you click the wrong button, the game ends.<br>
+ . Press any key to restart.<br>
 
