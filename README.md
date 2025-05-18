@@ -6,9 +6,9 @@ This is a web-based version of the classic **Simon Game** built using **HTML, CS
  **.** JavaScript
 # 🕹️ How to Play
  **1. Start the Game** <br>
- . Press any key (or click the "Start" button if available) to begin.<br>
+ . Press any key to begin.<br>
  **2. Watch the Sequence**
- . The game will highlight a color (with sound).<br>
+ . The game will highlight a color.<br>
  . Pay close attention to the order.<br>
  **3. Repeat the Sequence**
  . Click the buttons in the same order the game shows.<br>
