@@ -7,10 +7,10 @@ This is a web-based version of the classic **Simon Game** built using **HTML, CS
 # 🕹️ How to Play
  **1. Start the Game** <br>
  . Press any key to begin.<br>
- **2. Watch the Sequence**
+ **2. Watch the Sequence**<br>
  . The game will highlight a color.<br>
  . Pay close attention to the order.<br>
- **3. Repeat the Sequence**
+ **3. Repeat the Sequence**<br>
  . Click the buttons in the same order the game shows.<br>
  . With each level, the sequence gets longer and more challenging.<br>
  **4. Game Over**<br>
