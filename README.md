@@ -10,10 +10,11 @@ This is a web-based version of the classic **Simon Game** built using **HTML, CS
  **2. Watch the Sequence**
  . The game will highlight a color (with sound).<br>
  . Pay close attention to the order.<br>
-## **3. Repeat the Sequence**
+ **3. Repeat the Sequence**
  . Click the buttons in the same order the game shows.<br>
  . With each level, the sequence gets longer and more challenging.<br>
-## **4. Game Over**
+ **4. Game Over**
  . If you click the wrong button, the game ends.<br>
  . Press any key to restart.<br>
-
+# 🚀 Live Demo  
+[Include link if hosted on GitHub Pages or any platform like Netlify/Vercel]
