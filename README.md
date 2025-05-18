@@ -1,8 +1,8 @@
 # Simon-Game
 This is a web-based version of the classic **Simon Game** built using **HTML, CSS, and JavaScript**. The game challenges players to memorize and repeat a growing sequence of colors. It's a fun way to test and improve your memory skills!
 # 🔧 Technologies Used:
- **.** HTML
- **.** CSS
+ **.** HTML <br>
+ **.** CSS <br>
  **.** JavaScript
 # 🕹️ How to Play
  **1. Start the Game**
